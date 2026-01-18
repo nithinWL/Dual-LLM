@@ -131,6 +131,6 @@ The Streamlit UI will open automatically in your browser.
 ### Screen Shots
 
 Here are few screenshots featuring the working project 
-![alt text](image.png)
-![alt text](image-1.png)
-![alt text](image-2.png)
+![alt text](screenshots/image.png)
+![alt text](screenshots/image-1.png)
+![alt text](screenshots/image-2.png)
