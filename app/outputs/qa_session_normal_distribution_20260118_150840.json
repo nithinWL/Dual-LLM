@@ -1,0 +1,31 @@
+{
+  "subject": "normal distribution",
+  "num_pairs": 5,
+  "pairs": [
+    {
+      "id": 1,
+      "question": "What is the name of the curve that describes the normal distribution, also known as the bell curve?",
+      "answer": "- The curve is called the **Gaussian curve** (or **Gaussian function**).  \n- It is the graphical representation of the **normal distribution**, commonly known as the bell curve."
+    },
+    {
+      "id": 2,
+      "question": "What is the parameter that determines the width or dispersion of the normal distribution curve?",
+      "answer": "- The **standard deviation (σ)** controls the width (dispersion) of the normal distribution curve.  \n- A larger σ produces a wider, flatter bell; a smaller σ yields a narrower, taller bell.  \n- The **variance (σ²)** is the square of the standard deviation and serves the same purpose."
+    },
+    {
+      "id": 3,
+      "question": "What is the parameter that determines the central tendency or the average value of the normal distribution curve?",
+      "answer": "- The **mean (μ)** determines the central tendency, i.e., the average (center) of the normal distribution curve.  \n- It locates the peak of the bell curve; shifting μ moves the entire distribution left or right without changing its shape."
+    },
+    {
+      "id": 4,
+      "question": "What is the term for the area under the normal distribution curve within a specific number of standard deviations from the mean, which can be used to estimate the probability of a value falling within that range?",
+      "answer": "- The area under a normal curve within a given number of standard deviations from the mean is called the **empirical rule** (also known as the **68‑95‑99.7 rule**).  \n- It gives the approximate probability that a value falls within ±1σ (≈68 %), ±2σ (≈95 %), or ±3σ (≈99.7 %) of the mean."
+    },
+    {
+      "id": 5,
+      "question": "What is the process called when a non-normal distribution is transformed into a normal distribution to facilitate statistical analysis, such as hypothesis testing or confidence interval construction?",
+      "answer": "- The process of converting a non‑normal variable into one that follows a normal (Gaussian) distribution is called a **normalizing transformation** (also referred to as **Gaussianization**).  \n- Common techniques include the **Box‑Cox**, **log**, or **inverse‑normal (rank‑based)** transformations, which are applied to achieve approximate normality before hypothesis testing or confidence‑interval construction."
+    }
+  ]
+}
