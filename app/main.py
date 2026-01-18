@@ -11,8 +11,8 @@ from pathlib import Path
 from datetime import datetime
 import json
 
-from schemas import Request, Response, QApair
-from agents import question_agent, answer_agent
+from app.schemas import Request, Response, QApair
+from app.agents import question_agent, answer_agent
 
 
 app = FastAPI(
